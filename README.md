@@ -12,7 +12,9 @@ Moving text.txt into the Test folder does not trigger any processing.
 <img width="480" height="168" alt="스크린샷 2026-02-01 161603" src="https://github.com/user-attachments/assets/cd024b1d-e433-4994-b859-85d1b6faef91" />
 
 .docx files are automatically converted to PDF and transferred to locationA.
-<img width="1089" height="205" alt="스크린샷 2026-02-01 161639" src="https://github.com/user-attachments/assets/630004bf-b336-4854-8e48-46bb03ad091a" />
+
+<img width="1096" height="173" alt="스크린샷 2026-02-01 163107" src="https://github.com/user-attachments/assets/d3ad662d-7dcc-40ed-a9a7-b42987393492" />
+
 
 locationA folder
 
