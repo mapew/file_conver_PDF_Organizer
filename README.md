@@ -3,7 +3,7 @@
 The application watches the “Test” folder for file events.
 When a .docx file is detected, it is converted to PDF and moved to “locationA” Folder.
 
-Monitoring begins immediately on startup.
+Monitoring begins immediately when start the app.
 
 <img width="410" height="82" alt="스크린샷 2026-02-01 161544" src="https://github.com/user-attachments/assets/9939ba40-c4a5-450f-9eea-e03ba9062003" />
 
