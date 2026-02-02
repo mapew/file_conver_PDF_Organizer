@@ -20,7 +20,7 @@ locationA folder
 
 <img width="663" height="171" alt="스크린샷 2026-02-01 161718" src="https://github.com/user-attachments/assets/c9fabbb2-7899-42f8-b29d-3f36ec92244f" />
 
-Every activity entry in the log file follows the format: Date  User  Action  File Name.
+Every activity entry in the log file follows the format: Date  | User |  Action |  File Name.
 
 <img width="642" height="609" alt="스크린샷 2026-02-01 161804" src="https://github.com/user-attachments/assets/bd54438e-4286-45a4-8b5b-224192ca7c3a" />
 
