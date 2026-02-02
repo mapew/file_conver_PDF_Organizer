@@ -106,7 +106,7 @@ class App:
             while True:
                 time.sleep(1)
         except KeyboardInterrupt:
-            #cnt + c to stop the program
+            #ctrl + c to stop the program
             self.observer.stop()
         
         #cleaning up observer
@@ -114,4 +114,5 @@ class App:
 
 if __name__ == "__main__":
     app = App()
+
     app.run()
