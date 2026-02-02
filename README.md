@@ -1,7 +1,7 @@
 # file_conver_PDF_Organizer
 
 The application watches the “Test” folder for file events.
-When a .docx file is detected, it is converted to PDF and moved to “locationA”.
+When a .docx file is detected, it is converted to PDF and moved to “locationA” Folder.
 
 Monitoring begins immediately on startup.
 
